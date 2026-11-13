@@ -45,12 +45,14 @@
 
 ---
 
+
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girish54321&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish54321&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
